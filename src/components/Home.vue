@@ -228,7 +228,6 @@
         },
         
     }
-    import 'vant/lib/index.css';
 </script>
 
 <style lang= 'less' scoped>

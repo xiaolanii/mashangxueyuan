@@ -14,7 +14,7 @@ import 'vant/lib/index.css';
   </div>
   <HelloWorld msg="Vite + Vue" /> -->
   <div>
-    <Home/>
-    <!-- <router-view></router-view> -->
+    <!-- <Home/> -->
+    <router-view></router-view>
   </div>
 </template>
